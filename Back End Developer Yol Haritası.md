@@ -47,7 +47,7 @@ Merhaba. Bu yazımda Back End Developer yol haritası hakkında bahsettim. Araş
 * Bulutta yerel, mikro hizmet tabanlı, sunucusuz ve hibrit bulut mimarilerini desteklemek için ortak bir entegrasyon mekanizması oluşturmaya yardımcı olan bir uygulamalar arası iletişim teknolojisidir.
 * [RabbitMQ](https://www.rabbitmq.com/getstarted.html): On binlerce kullanıcısı olan RabbitMQ, en popüler açık kaynaklı mesaj aracılarından biridir. RabbitMQ hafiftir ve şirket içinde ve bulutta devreye alınması kolaydır. Birden fazla mesajlaşma protokolünü destekler.
 
-## **11. Adım: Konteynerleştirme ve Sanallaştırma**
+## **11. Adım: Konteynerleştirme ve Sanallaştırma** 
 * Kapsayıcılar ve sanal makineler, kuruluşunuz için bir yazılım altyapısı oluşturmaya yönelik en popüler iki yaklaşımdır.
 * [Kubernetes](https://kubernetes.io/docs/home/):Kubernetes, [açık kaynaklı](https://github.com/kubernetes/kubernetes) bir konteyner yönetim platformudur ve bu alandaki baskın üründür. Ekipler, Kubernet'leri kullanarak görüntüleri birden çok temel ana bilgisayarda dağıtabilir ve YAML'de istedikleri kullanılabilirliği, dağıtım mantığını ve ölçeklendirme mantığını tanımlayabilir.
 
