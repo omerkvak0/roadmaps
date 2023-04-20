@@ -1,4 +1,4 @@
-# **Front End Yol Haritası**
+# **Back End Yol Haritası**
 Merhaba. Bu yazımda Back End Developer yol haritası hakkında bahsettim. Araştırıp öğrendiğim konuları ele aldım. Bu alanda ilerlemek isteyen ve ilerlemiş olan herkese başarılar dilerim.
 
 ## **1. Adım: Programlama Dilleri** 
